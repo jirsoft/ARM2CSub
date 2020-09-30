@@ -4,6 +4,7 @@ ARM assembler in Xojo
 ### Current version: 1.2
 
 ## Change Log
+1.2:
 * initial version put to GitHub
 
 ## Description
